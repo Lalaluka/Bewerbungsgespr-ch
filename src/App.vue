@@ -21,7 +21,7 @@
 
                 opts = {
                     len: 20,
-                    count: 10000,
+                    count: 5000,
                     baseTime: 3,
                     addedTime: 10,
                     dieChance: .0005,
@@ -179,5 +179,6 @@
 </script>
 
 <style>
+    @import "./assets/mustard-ui.min.css";
     @import "./assets/style.css";
 </style>

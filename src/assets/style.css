@@ -1,8 +1,27 @@
 body{
+    font-size: 20px;
+    font-family: Helvetica;
     background-color:black;
     color:white;
-    font-size: 4rem;
-    font-family: sans-serif;
+}
+
+.mu-div{
+    resize: both;
+    overflow: none;
+    padding: 20px;
+}
+
+.content{
+    background-color: rgba(0, 0, 0, 0.7);
+    padding:10px;
+}
+
+.right{
+    text-align: right;
+}
+
+img{
+    width:100%;
 }
 
 canvas {
@@ -28,4 +47,12 @@ a:hover {
 
 a:active {
     text-decoration: none;
+}
+
+.pre-middle{
+    text-align: center;
+    margin-top: 20%;
+}
+.pre-middle > h1{
+    margin: 0;
 }

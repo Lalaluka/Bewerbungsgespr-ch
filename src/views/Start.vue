@@ -15,11 +15,9 @@
 </script>
 
 <style scoped>
-    .pre-middle{
-        text-align: center;
-        margin-top: 20%;
-    }
-    .pre-middle > h1{
-        margin: 0;
+    h1{
+        font-size: 170px;
+        font-weight: bold;
+        text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
     }
 </style>
