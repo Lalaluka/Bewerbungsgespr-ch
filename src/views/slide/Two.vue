@@ -1,10 +1,12 @@
 <template>
-    
+    <div class="slide-one">
+        Slide Two
+    </div>
 </template>
 
 <script>
     export default {
-        name: "1"
+        name: "Two"
     }
 </script>
 

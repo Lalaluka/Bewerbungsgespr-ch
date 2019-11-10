@@ -1,6 +1,5 @@
 <template>
     <v-app>
-        <Navigation></Navigation>
         <canvas id="c" ref="c"></canvas>
         <v-content transition="slide-x-transition">
             <router-view></router-view>
@@ -9,11 +8,9 @@
 </template>
 
 <script>
-    import Navigation from '@/components/Navigation';
     export default {
         name: 'App',
         components: {
-            Navigation
         },
         mounted(){
             //Source Credit: https://codepen.io/towc/pen/mJzOWJ

@@ -1,7 +1,9 @@
 <template>
     <div class="start">
         <div class="pre-middle">
-            <a href="/slide/1">Start</a>
+            <h1>
+                <a href="/slide/1">START</a>
+            </h1>
         </div>
     </div>
 </template>
@@ -13,8 +15,11 @@
 </script>
 
 <style scoped>
-    pre-middle{
-        color:white;
-        position: center;
+    .pre-middle{
+        text-align: center;
+        margin-top: 20%;
+    }
+    .pre-middle > h1{
+        margin: 0;
     }
 </style>
