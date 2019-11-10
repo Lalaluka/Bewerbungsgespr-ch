@@ -1,6 +1,8 @@
 <template>
     <div class="start">
-        Start APIAUSHDASHDPASHLDUAHSIPuh
+        <div class="pre-middle">
+            <a href="/slide/1">Start</a>
+        </div>
     </div>
 </template>
 
@@ -11,4 +13,8 @@
 </script>
 
 <style scoped>
+    pre-middle{
+        color:white;
+        position: center;
+    }
 </style>
