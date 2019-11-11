@@ -1,12 +1,15 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Start from '../views/Start.vue';
+import End from '../views/End.vue'
 import Slide1 from '../views/slide/One.vue';
 import Slide2 from '../views/slide/Two.vue';
 import Slide3 from '../views/slide/Three.vue';
 import Slide4 from '../views/slide/Four.vue';
 import Slide5 from '../views/slide/Five.vue';
 import Slide6 from '../views/slide/Six.vue';
+import Slide7 from '../views/slide/Seven.vue';
+import Slide8 from '../views/slide/Eight.vue';
 
 Vue.use(VueRouter);
 
@@ -15,6 +18,11 @@ const routes = [
         path: '/',
         name: 'start',
         component: Start
+    },
+    {
+        path: '/end',
+        name: 'end',
+        component: End
     },
     {
         path: '/about',
@@ -51,6 +59,16 @@ const routes = [
         path: '/slide/6',
         name: 'Slide6',
         component: Slide6
+    },
+    {
+        path: '/slide/7',
+        name: 'Slide7',
+        component: Slide7
+    },
+    {
+        path: '/slide/8',
+        name: 'Slide8',
+        component: Slide8
     }
 ];
 
