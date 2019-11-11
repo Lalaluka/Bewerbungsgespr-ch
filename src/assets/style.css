@@ -1,19 +1,76 @@
 body{
-    font-size: 20px;
     font-family: Helvetica;
     background-color:black;
     color:white;
 }
 
+@media screen and (min-width: 1400px) {
+    body{
+        padding:20px;
+    }
+    .mu-div{
+        padding: 15px 30px 30px 10px;
+    }
+    body{
+        font-size:25px;
+    }
+    .content{
+        padding:20px;
+    }
+}
+@media scree and (max-width:1399px){
+    .mu-div{
+        padding:10px;
+    }
+    body{
+        font-size: 18px;
+    }
+    .content{
+        padding:10px;
+    }
+}
+h1, h2{
+    color:white;
+    margin:0px;
+}
+
+.centering-container{
+    margin:auto;
+}
+
 .mu-div{
     resize: both;
     overflow: none;
-    padding: 20px;
+}
+
+ol{
+    padding-left: 1em;
+}
+
+.next-slide{
+    font-size:30px;
+    margin:0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.next-slide > div{
+    padding:0px 50px 0px 0px;
 }
 
 .content{
-    background-color: rgba(0, 0, 0, 0.7);
-    padding:10px;
+    background-color: rgba(0, 0, 0, 0.85);
+    border-style: dashed;
+    border-color:white;
+}E
+
+.flex-container {
+    display: flex;
+}
+
+.flex-content{
+    flex: 1;
 }
 
 .right{

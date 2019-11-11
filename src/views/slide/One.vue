@@ -1,15 +1,15 @@
 <template>
     <div class="slide-one">
         <h1 class="mu-div">
-            General Information's
+            Generelles
         </h1>
         <div class="row">
             <div class="col-lg-4 mu-div">
                 <img src="../../assets/me-min.jpg">
             </div>
-            <div class="col-lg-7 mu-div">
+            <div class="col-lg-8 mu-div">
                 <div class="content">
-                    Calvin Schröder <br>
+                    <h2>Calvin Schröder </h2>
                     <ul>
                         <li>
                             Geboren: 11.11.1998 in Hamburg (21)
@@ -30,18 +30,27 @@
                                     Barrierefreiheit und Usability
                                 </li>
                                 <li>
-                                    Feature Entwicklung mit Slowakischen Scrum Team (YAM Badges, Twitter Tile)
+                                    Feature Entwicklung mit slowakischen Scrum Team (YAM Badges, Twitter Tile)
                                 </li>
                                 <li>
                                     Entwicklung einer eigenen Microservice-basierenden Alternative zum bestehenden Zulieferer
                                 </li>
+                                <li>
+                                    Teilnahme an der Developer Community "YAM-Develover" mit Organisation und Teilnahme an Community Hackathons
+                                </li>
                             </ol>
+                        </li>
+                        <li>
+                            Exin DevOps Master und Foundation zertifiziert
+                        </li>
+                        <li>
+                            Schwerpunkte im Webdevelopment (Backend und Frontend)
                         </li>
                     </ul>
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row next-slide">
             <div class="col-lg-12 right mu-div">
                 <a href="/slide/2">Weiter</a>
             </div>
@@ -57,10 +66,6 @@
 
 <style scoped>
     h1{
-        color:white;
-        margin:0px;
-    }
-    ol{
-        padding-left: 1em;
+        font-size:60px;
     }
 </style>

@@ -3,6 +3,8 @@ import VueRouter from 'vue-router';
 import Start from '../views/Start.vue';
 import Slide1 from '../views/slide/One.vue';
 import Slide2 from '../views/slide/Two.vue';
+import Slide3 from '../views/slide/Three.vue';
+import Slide4 from '../views/slide/Four.vue';
 
 Vue.use(VueRouter);
 
@@ -15,9 +17,6 @@ const routes = [
     {
         path: '/about',
         name: 'about',
-        // route level code-splitting
-        // this generates a separate chunk (about.[hash].js) for this route
-        // which is lazy-loaded when the route is visited.
         component: () =>
             import(/* webpackChunkName: "about" */ '../views/About.vue')
     },
@@ -30,6 +29,16 @@ const routes = [
         path: '/slide/2',
         name: 'Slide2',
         component: Slide2
+    },
+    {
+        path: '/slide/3',
+        name: 'Slide3',
+        component: Slide3
+    },
+    {
+        path: '/slide/4',
+        name: 'Slide4',
+        component: Slide4
     }
 ];
 
