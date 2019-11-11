@@ -6,23 +6,31 @@
         <div class="row">
             <div class="col-lg-3 mu-div pics">
                 <div>
-                    <img src="https://miro.medium.com/max/914/1*Bwp5z9qlQAor4hw2K61gIw.jpeg">
+                    <img
+                        src="https://miro.medium.com/max/914/1*Bwp5z9qlQAor4hw2K61gIw.jpeg"
+                    />
                 </div>
                 <div>
-                    <img src="https://tutorialesenpdf.com/wp-content/uploads/2018/05/vuejs-tutorial-pdf.jpg">
+                    <img
+                        src="https://tutorialesenpdf.com/wp-content/uploads/2018/05/vuejs-tutorial-pdf.jpg"
+                    />
                 </div>
             </div>
             <div class="col-lg-9 mu-div">
                 <div class="content">
-                    <p>Das hier ist nicht nur meine Präsentation, sondern gleichzeitig eine Arbeitsprobe.</p>
                     <p>
-                        Entwicklungsstart: Sonntag Abend<br>
-                        Frontend-Engine: Vue Client <br>
-                        SS Web-Framework: Express.js <br>
-                        CSS-Framework: MustardUI <br>
-                        Geschrieben in: Javascript EC6/2015<br>
-                        Repository auf GitHub <br>
-                        CI/CD und Runtime: Heruko <br> <br>
+                        Das hier ist nicht nur meine Präsentation, sondern
+                        gleichzeitig eine Arbeitsprobe.
+                    </p>
+                    <p>
+                        Entwicklungsstart: Sonntag Abend<br />
+                        Frontend-Engine: Vue Client <br />
+                        SS Web-Framework: Express.js <br />
+                        CSS-Framework: MustardUI <br />
+                        Geschrieben in: Javascript EC6/2015<br />
+                        Repository auf GitHub <br />
+                        CI/CD und Runtime: Heruko <br />
+                        <br />
 
                         An sich MEVN Stack ohne MongoDB
                     </p>
@@ -38,14 +46,14 @@
 </template>
 
 <script>
-    export default {
-        name: "Two"
-    }
+export default {
+    name: 'Two'
+};
 </script>
 
 <style scoped>
-    .img-50{
-        width:auto;
-        height:190px;
-    }
+.img-50 {
+    width: auto;
+    height: 190px;
+}
 </style>

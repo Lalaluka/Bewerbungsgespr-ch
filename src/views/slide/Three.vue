@@ -4,7 +4,7 @@
             Was kann ich noch?
         </h1>
         <div class="row flex-container">
-                <div class="col-lg-6 mu-div flex-content">
+            <div class="col-lg-6 mu-div flex-content">
                 <div class="content">
                     <h2>Programmiersprachen</h2>
                     <ul>
@@ -26,7 +26,8 @@
                             </ol>
                         </li>
                     </ul>
-                    Basiskentnisse in Go, Object Pascal, C, C++, Visual Basic, Python
+                    Basiskentnisse in Go, Object Pascal, C, C++, Visual Basic,
+                    Python
                 </div>
             </div>
             <div class="col-lg-6 mu-div flex-content">
@@ -59,9 +60,10 @@
             <div class="col-lg-12 mu-div">
                 <div class="content">
                     Natürlich behersche ich auch die technologischen Basics:
-                    HTML, CSS, XML, JSON, Rest, Apache, Tomcat, Maven, npm, yarn <br>
-                    Zusätzlich behersche ich weitere Technologien:
-                    GraphQL, Openshift, Docker, AWS, JWT
+                    HTML, CSS, XML, JSON, Rest, Apache, Tomcat, Maven, npm, yarn
+                    <br />
+                    Zusätzlich behersche ich weitere Technologien: GraphQL,
+                    Openshift, Docker, AWS, JWT
                 </div>
             </div>
         </div>
@@ -74,13 +76,13 @@
 </template>
 
 <script>
-    export default {
-        name: "Three"
-    }
+export default {
+    name: 'Three'
+};
 </script>
 
 <style scoped>
-    ol{
-        font-size:18px;
-    }
+ol {
+    font-size: 18px;
+}
 </style>

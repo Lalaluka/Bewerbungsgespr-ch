@@ -5,6 +5,8 @@ import Slide1 from '../views/slide/One.vue';
 import Slide2 from '../views/slide/Two.vue';
 import Slide3 from '../views/slide/Three.vue';
 import Slide4 from '../views/slide/Four.vue';
+import Slide5 from '../views/slide/Five.vue';
+import Slide6 from '../views/slide/Six.vue';
 
 Vue.use(VueRouter);
 
@@ -39,6 +41,16 @@ const routes = [
         path: '/slide/4',
         name: 'Slide4',
         component: Slide4
+    },
+    {
+        path: '/slide/5',
+        name: 'Slide5',
+        component: Slide5
+    },
+    {
+        path: '/slide/6',
+        name: 'Slide6',
+        component: Slide6
     }
 ];
 

@@ -5,17 +5,18 @@
         </h1>
         <div class="row">
             <div class="col-lg-4 mu-div">
-                <img src="../../assets/me-min.jpg">
+                <img src="../../assets/me-min.jpg" />
             </div>
             <div class="col-lg-8 mu-div">
                 <div class="content">
-                    <h2>Calvin Schröder </h2>
+                    <h2>Calvin Schröder</h2>
                     <ul>
                         <li>
                             Geboren: 11.11.1998 in Hamburg (21)
                         </li>
                         <li>
-                            Studium: Angewandte Informatik an der Hochschule für Telekomunikation Leipzig
+                            Studium: Angewandte Informatik an der Hochschule für
+                            Telekomunikation Leipzig
                         </li>
                         <li>
                             Betriebseinsatz: Telekom IT GmbH in Hamburg
@@ -30,13 +31,18 @@
                                     Barrierefreiheit und Usability
                                 </li>
                                 <li>
-                                    Feature Entwicklung mit slowakischen Scrum Team (YAM Badges, Twitter Tile)
+                                    Feature Entwicklung mit slowakischen Scrum
+                                    Team (YAM Badges, Twitter Tile)
                                 </li>
                                 <li>
-                                    Entwicklung einer eigenen Microservice-basierenden Alternative zum bestehenden Zulieferer
+                                    Entwicklung einer eigenen
+                                    Microservice-basierenden Alternative zum
+                                    bestehenden Zulieferer
                                 </li>
                                 <li>
-                                    Teilnahme an der Developer Community "YAM-Develover" mit Organisation und Teilnahme an Community Hackathons
+                                    Teilnahme an der Developer Community
+                                    "YAM-Develover" mit Organisation und
+                                    Teilnahme an Community Hackathons
                                 </li>
                             </ol>
                         </li>
@@ -44,7 +50,8 @@
                             Exin DevOps Master und Foundation zertifiziert
                         </li>
                         <li>
-                            Schwerpunkte im Webdevelopment (Backend und Frontend)
+                            Schwerpunkte im Webdevelopment (Backend und
+                            Frontend)
                         </li>
                     </ul>
                 </div>
@@ -59,13 +66,13 @@
 </template>
 
 <script>
-    export default {
-        name: "One"
-    }
+export default {
+    name: 'One'
+};
 </script>
 
 <style scoped>
-    h1{
-        font-size:60px;
-    }
+h1 {
+    font-size: 60px;
+}
 </style>
