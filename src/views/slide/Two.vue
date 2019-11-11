@@ -6,8 +6,7 @@
         <div class="row">
             <div class="col-lg-3 mu-div pics">
                 <div>
-                    <img class="img-50" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/04/1461122387heroku-logo.jpg">
-                    <img class="img-50" src="https://techcrunch.com/wp-content/uploads/2019/01/IMG_20181016_092551.jpg?w=730&crop=1">
+                    <img src="https://miro.medium.com/max/914/1*Bwp5z9qlQAor4hw2K61gIw.jpeg">
                 </div>
                 <div>
                     <img src="https://tutorialesenpdf.com/wp-content/uploads/2018/05/vuejs-tutorial-pdf.jpg">

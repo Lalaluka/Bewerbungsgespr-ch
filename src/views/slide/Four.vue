@@ -4,8 +4,19 @@
             Und Agil?
         </h1>
         <div class="row">
-            <div class="col-lg-6 mu-div">
-                ABC
+            <div class="col-lg-3">
+
+            </div>
+            <div class="col-lg-9 mu-div">
+                <div class="content">
+                    <ul>
+                        <li>DevOps Master und Erfahrung mit praktischer Nutzung von CI/CD Methoden</li>
+                        <li>8 Monate arbeit in slovakisch deutschen Scrum Team</li>
+                        <li>Erfahrung mit Kanban und Design Thinking</li>
+                        <li>YAM-Core Team ist über 4 Standorte verteilt gewesen</li>
+                        <li>Erfahrung mit UserCentricDesign für Usability- und Barrierefreiheitsbetrachtung im laufenden Enticklungsprozess </li>
+                    </ul>
+                </div>
             </div>
         </div>
         <div class="row next-slide">

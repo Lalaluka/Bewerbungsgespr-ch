@@ -59,9 +59,9 @@
             <div class="col-lg-12 mu-div">
                 <div class="content">
                     Natürlich behersche ich auch die technologischen Basics:
-                    HTML, CSS, XML, JSON, Rest, Apache, Tomcat <br>
+                    HTML, CSS, XML, JSON, Rest, Apache, Tomcat, Maven, npm, yarn <br>
                     Zusätzlich behersche ich weitere Technologien:
-                    GraphQL, Openshift, Docker, AWS
+                    GraphQL, Openshift, Docker, AWS, JWT
                 </div>
             </div>
         </div>
