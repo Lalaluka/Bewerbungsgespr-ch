@@ -28,7 +28,7 @@ export default {
                 sparkDist: 1,
                 sparkSize: 1,
 
-                color: 'hsl(135,100%,light%)',
+                color: 'hsl(329,100%,light%)',
                 baseLight: 50,
                 addedLight: 10, // [50-10,50+10]
                 shadowToTimePropMult: 6,
