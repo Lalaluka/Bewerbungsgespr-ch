@@ -20,7 +20,7 @@
                             Es ist ein monolithisches Java Spring System (maven)
                         </li>
                         <li>
-                            Als Search ist T-Search eingebunden und auch CAS
+                            Als Search ist T-Search eingebunden und zusätzlich CAS
                             (SSO) und CROWD(Auth)
                         </li>
                         <li>

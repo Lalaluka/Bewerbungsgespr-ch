@@ -35,6 +35,13 @@ h1, h2{
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
+.content-img{
+    background-color: rgba(0, 0, 0, 0.85);
+    border-style: dashed;
+    border-color:white;
+    padding:2px;
+}
+
 .centering-container{
     margin:auto;
 }

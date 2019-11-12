@@ -29,7 +29,7 @@
                         CSS-Framework: MustardUI <br />
                         Geschrieben in: Javascript EC6/2015<br />
                         Repository auf GitHub <br />
-                        CI/CD und Runtime: Heruko <br />
+                        CI/CD und Runtime: Heroku <br />
                         <br />
 
                         An sich MEVN Stack ohne MongoDB

@@ -9,6 +9,7 @@
                     <h2>Stärken</h2>
                     <ul>
                         <li>Technikbegeistert</li>
+                        <li>Neugierig</li>
                         <li>Selbstständiges erarbeiten erforderlicher Technologien</li>
                         <li>Motiviert Meinungen in Teams einzubringen</li>
                         <li>Flexibel</li>
@@ -16,6 +17,7 @@
                         <li>Kommunikativ und Teamworker</li>
                         <li>Nutzerorientiert</li>
                         <li>Networker</li>
+                        <li>Gründlich was Arbeitsergebnisse angeht</li>
                     </ul>
                 </div>
             </div>
@@ -30,7 +32,16 @@
                 </div>
             </div>
         </div>
-        <div class="row"></div>
+        <div class="row">
+            <div class="col-lg-8">
+
+            </div>
+            <div class="col-lg-4 mu-div">
+                <div class="content">
+                    Und Privat?
+                </div>
+            </div>
+        </div>
         <div class="row next-slide">
             <div class="col-lg-12 right mu-div">
                 <a href="/slide/8">Weiter</a>

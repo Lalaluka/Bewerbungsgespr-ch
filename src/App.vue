@@ -19,7 +19,7 @@ export default {
             ctx = c.getContext('2d'),
             opts = {
                 len: 20,
-                count: 2500,
+                count: 1000,
                 baseTime: 3,
                 addedTime: 10,
                 dieChance: 0.0005,
