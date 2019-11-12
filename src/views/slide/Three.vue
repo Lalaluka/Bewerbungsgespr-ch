@@ -1,7 +1,7 @@
 <template>
     <div class="slide-three">
         <h1 class="mu-div">
-            Was kann ich noch?
+            Was kann ich?
         </h1>
         <div class="row flex-container">
             <div class="col-lg-6 mu-div flex-content">

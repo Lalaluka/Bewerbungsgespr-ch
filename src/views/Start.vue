@@ -23,8 +23,8 @@ export default {
         font-weight: bolder;
         text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
     }
-    p{
-        margin-top:90px;
+    p {
+        margin-top: 90px;
         font-weight: bold;
         text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
     }

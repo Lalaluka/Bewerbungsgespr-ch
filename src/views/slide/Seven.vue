@@ -10,7 +10,10 @@
                     <ul>
                         <li>Technikbegeistert</li>
                         <li>Neugierig</li>
-                        <li>Selbstständiges erarbeiten erforderlicher Technologien</li>
+                        <li>
+                            Selbstständiges erarbeiten erforderlicher
+                            Technologien
+                        </li>
                         <li>Motiviert Meinungen in Teams einzubringen</li>
                         <li>Flexibel</li>
                         <li>Sehr gutes Englisch</li>
@@ -26,16 +29,16 @@
                     <h2>Schwächen</h2>
                     <ul>
                         <li>Legasthenie</li>
-                        <li>Viel Wissen basiert rein auf praktischer Anwendung</li>
+                        <li>
+                            Viel Wissen basiert rein auf praktischer Anwendung
+                        </li>
                         <li>Prozesse sind nicht mein Freund &#128528;</li>
                     </ul>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-8">
-
-            </div>
+            <div class="col-lg-8"></div>
             <div class="col-lg-4 mu-div">
                 <div class="content">
                     Und Privat?
@@ -51,11 +54,9 @@
 </template>
 
 <script>
-    export default {
-        name: "Seven"
-    }
+export default {
+    name: 'Seven'
+};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>

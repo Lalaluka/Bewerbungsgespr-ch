@@ -17,11 +17,11 @@
                             Aurea
                         </li>
                         <li>
-                            Es ist ein monolithisches Java Spring System (maven)
+                            Es ist ein monolithisches Java 8 Spring System (maven)
                         </li>
                         <li>
-                            Als Search ist T-Search eingebunden und zusätzlich CAS
-                            (SSO) und CROWD(Auth)
+                            Als Search ist T-Search eingebunden und zusätzlich
+                            CAS (SSO) und CROWD(Auth)
                         </li>
                         <li>
                             Für die Entwicklung von Frontend Elementen steht ein
