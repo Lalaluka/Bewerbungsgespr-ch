@@ -27,7 +27,7 @@
                         Frontend-Engine: Vue Client <br />
                         SS Web-Framework: Express.js <br />
                         CSS-Framework: MustardUI <br />
-                        Geschrieben in: Javascript EC6/2015<br />
+                        Geschrieben in: Javascript ES6/2015<br />
                         Repository auf GitHub <br />
                         CI/CD und Runtime: Heroku <br />
                         <br />
